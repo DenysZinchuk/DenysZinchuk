@@ -1,5 +1,7 @@
 ## Hi, I'm Denys 👋
 
+Finance & Accounting | Data Analytics | Investments
+
 I'm a Finance & Accounting student specializing in financial and investment advisory, while developing my career in Data Analytics.
 
 I combine financial knowledge with data analysis skills and have hands-on experience working with investment platforms and analytical tools.
