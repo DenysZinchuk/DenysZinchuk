@@ -6,6 +6,9 @@ I'm a Finance & Accounting student specializing in financial and investment advi
 
 I combine financial knowledge with data analysis skills and have hands-on experience working with investment platforms and analytical tools.
 
+### Portfolio
+[Tableau Public Portfolio](https://public.tableau.com/app/profile/denys.zinchuk/vizzes)
+
 ### Skills & Tools
 - Python
 - Pandas
